@@ -15,7 +15,7 @@ public class Reverse {
             reverse += ch;
         }
         System.out.println(reverse);
-
+         //why it takes long 
 
     }
 }
